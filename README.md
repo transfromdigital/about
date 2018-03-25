@@ -1,4 +1,4 @@
-#  Bingo
+
 ## About us
 Selamat datang pada sumber segala sumber informasi tentang adanya kami pada dunia online yang maha besar ini.
 
