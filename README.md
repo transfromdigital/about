@@ -1,6 +1,6 @@
 
 ## About us
-Selamat datang pada sumber segala sumber informasi tentang adanya kami pada dunia online yang maha besar ini.
+Selamat datang pada sumber segala sumber informasi tentang adanya kami pada dunia online yang wahananya sangat besar itu.
 
 ## Vision
 mengembangkan aktivitas dan menggali creativitas positif dalam lingkungan 
