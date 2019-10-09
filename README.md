@@ -11,3 +11,7 @@ mengembangkan aktivitas dan menggali creativitas positif dalam lingkungan
 ## Who are we?
 mulai dikerjakan awalnya pada sebuah warung atas yang ada warnetnya saat itu oleh Co-Foundernya Bobwinslow Withlefthand  was officially launched on May 5 setiap tahunnya sampai bosen walau belum menghasilkan apapun yang berarti tapi selalu mengambil hikmah dari semua proses pembelajaran kedepan pada masanya nanti.
 Sebagai perusahaan pemula nantinya diharapkan kami harus tetap dapat berkembang dan maju dengan bekerja sama pada semua lini dunia bisnis dan segi kehidupan pasar menuju adab etika Globalization
+
+# Bagi siapapun tanpa terkecuali yang mau untuk ikut bekerjasama dalam kolaborasi team pada tempat repositories di sini ;
+  ## Kalian Bebas 
+  # Dengan mengacu pada Pandanan public Kontribusi sesuaikan dengan license.
